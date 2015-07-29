@@ -1,4 +1,4 @@
-# PHP Excel Reader
+# PHP Excel Reader ![projet logo excel](https://github.com/justinmassiot/php-excel-reader/blob/master/excel_icon.gif)
 
 This PHP library expands on the great work done in the [PHP Excel Reader project on SourceForge](http://sourceforge.net/projects/phpexcelreader/).
 
@@ -15,7 +15,7 @@ http://code.google.com/p/php-excel-reader/downloads/list
 
 ### Microsoft Excel Screenshot
 
-![Excel screenshot](http://mattkruse.com/php-excel-reader/screenshot_excel.gif)
+![Excel screenshot](https://github.com/justinmassiot/php-excel-reader/blob/master/screenshot_excel.gif)
 
 ### PHP Output
 
@@ -25,7 +25,7 @@ By simply using this php command:
 
 The output looks like this (with some CSS):
 
-![Web rendering](http://mattkruse.com/php-excel-reader/screenshot_php.gif)
+![Web rendering](https://github.com/justinmassiot/php-excel-reader/blob/master/screenshot_php.gif)
 
 ( http://www.mattkruse.com/php-excel-reader/example.php )
 
